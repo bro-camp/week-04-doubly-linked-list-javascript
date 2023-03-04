@@ -1,7 +1,7 @@
 {
   "name": "week-04-doubly-linked-list-javascript",
   "version": "0.0.0",
-  "description": "# Week 04 - Doubly Linked List - JavaScript",
+  "description": "Week 04 - Doubly Linked List - JavaScript",
   "main": "src/index.js",
   "scripts": {
     "test": "node ./test/main.test.js",
